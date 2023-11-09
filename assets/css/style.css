@@ -20,6 +20,9 @@ font-family: 'Lato', sans-serif;
 header {
     background-color: black;
 }
+h1 {
+    font-family: 'Lato', sans-serif;
+}
 /*main*/
 main {
     background-color: beige;
